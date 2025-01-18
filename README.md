@@ -1,5 +1,5 @@
-print("im love Python")
-printf("im love C");
-console.log('im love Js');
+print("i love Python")
+printf("i love C");
+System.out.println("i love Java");
 
-Python, C, Js <3
+Python, C, Java
