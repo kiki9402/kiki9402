@@ -1,5 +1,5 @@
-print("i love Python")
-printf("i love C");
-System.out.println("i love Java");
+print("Python")
+printf("C");
+System.out.println("Java");
 
 Python, C, Java
